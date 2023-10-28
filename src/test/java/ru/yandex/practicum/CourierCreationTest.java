@@ -3,6 +3,11 @@ package ru.yandex.practicum;
 import io.restassured.response.ValidatableResponse;
 import org.junit.After;
 import org.junit.Test;
+import ru.yandex.practicum.model.Courier;
+import ru.yandex.practicum.model.Credentials;
+import ru.yandex.practicum.response.CourierAssertions;
+import ru.yandex.practicum.response.CourierClient;
+import ru.yandex.practicum.util.CourierGenerator;
 
 public class CourierCreationTest {
 

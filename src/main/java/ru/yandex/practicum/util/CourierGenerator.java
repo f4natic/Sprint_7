@@ -1,6 +1,7 @@
-package ru.yandex.practicum;
+package ru.yandex.practicum.util;
 
 import org.apache.commons.lang.RandomStringUtils;
+import ru.yandex.practicum.model.Courier;
 
 public class CourierGenerator {
 

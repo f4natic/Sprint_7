@@ -3,6 +3,7 @@ package ru.yandex.practicum;
 import io.restassured.response.ValidatableResponse;
 import org.junit.Before;
 import org.junit.Test;
+import ru.yandex.practicum.response.OrderClient;
 
 import java.net.HttpURLConnection;
 import java.util.List;

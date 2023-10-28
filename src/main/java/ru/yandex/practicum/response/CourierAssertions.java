@@ -1,4 +1,4 @@
-package ru.yandex.practicum;
+package ru.yandex.practicum.response;
 
 import io.restassured.response.ValidatableResponse;
 import java.net.HttpURLConnection;

@@ -1,4 +1,4 @@
-package ru.yandex.practicum;
+package ru.yandex.practicum.response.specification;
 
 import io.restassured.http.ContentType;
 import io.restassured.specification.RequestSpecification;

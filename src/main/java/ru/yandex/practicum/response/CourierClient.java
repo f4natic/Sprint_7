@@ -1,6 +1,9 @@
-package ru.yandex.practicum;
+package ru.yandex.practicum.response;
 
 import io.restassured.response.ValidatableResponse;
+import ru.yandex.practicum.model.Courier;
+import ru.yandex.practicum.model.Credentials;
+import ru.yandex.practicum.response.specification.Client;
 
 import java.util.Map;
 

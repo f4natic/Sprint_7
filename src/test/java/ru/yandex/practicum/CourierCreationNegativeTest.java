@@ -4,6 +4,8 @@ import io.restassured.response.ValidatableResponse;
 import org.apache.commons.lang.RandomStringUtils;
 import org.junit.Before;
 import org.junit.Test;
+import ru.yandex.practicum.model.Courier;
+import ru.yandex.practicum.response.CourierClient;
 
 import java.net.HttpURLConnection;
 

@@ -1,6 +1,8 @@
-package ru.yandex.practicum;
+package ru.yandex.practicum.response;
 
 import io.restassured.response.ValidatableResponse;
+import ru.yandex.practicum.model.Order;
+import ru.yandex.practicum.response.specification.Client;
 
 public class OrderClient extends Client {
 
